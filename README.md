@@ -7,27 +7,27 @@ With a passion for **coding, problem-solving, and building digital experiences**
 ---
 
 ## 🔭 Current Projects  
-📘 **PPT3X** – An E-Book Reader with **Text-to-Speech (TTS) in multiple languages**  
-💡 Experimenting with **Python, AI-driven speech processing, and UI design**  
+📘 **E-Book Reader** – An E-Book Reader with **Text-to-Speech (TTS) in Python**  
+💡 Experimenting with **Python, AI-driven speech processing**  
 
 ---
 
 ## 🕯 Currently Learning  
-🚀 **Web development** (Frontend & Backend)  
-📱 **Flutter for mobile app development**  
+🚀 **Web development** (Frontend)  
+📱 **Python**  
 🧠 **Data structures & algorithms for efficient problem-solving**  
 
 ---
 
 ## 💡 Looking to Collaborate On  
 🔹 **Open-source projects**  
-🔹 **Web and mobile applications**  
+🔹 **Web Development**  
 🔹 **Innovative projects using Python, Java, or AI-driven technologies**  
 
 ---
 
 ## ⛳ Ask Me About  
-💻 **OOP principles**  
+📐 **Mathematics and Physics Concepts – from theory to real-world applications**   
 🌐 **Web development**  
 ⚙️ **Problem-solving in Python, Java, and C++**  
 
