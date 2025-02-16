@@ -1,13 +1,43 @@
-- 👋 Hi, I’m @kmabro
-- 👀 I’m interested in **coding, problem-solving, and creating innovative digital experiences.**  
-- 🌱 I’m currently pursuing a **graduation in Computer Systems Engineering** and learning **web development** to build modern and responsive websites.  
-- 💞️ I’m looking to collaborate on **open-source projects**, especially those involving **Python, Java, or web development**.  
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/kmabro/) or email me at **kmabro786110@gmail.com**.  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I write code that works perfectly… after spending hours debugging what I broke in the first place! 😆  
+## 👋 Hello World! I'm @kmabro  
 
+🎓 **Computer Systems Engineering Student | Aspiring Web Developer**  
 
-<!---
-kmabro/kmabro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With a passion for **coding, problem-solving, and building digital experiences**, I love developing projects that combine creativity with functionality. I’m continuously learning and exploring new technologies to stay ahead in the ever-evolving world of software development.  
+
+---
+
+## 🔭 Current Projects  
+📘 **PPT3X** – An E-Book Reader with **Text-to-Speech (TTS) in multiple languages**  
+💡 Experimenting with **Python, AI-driven speech processing, and UI design**  
+
+---
+
+## 🕯 Currently Learning  
+🚀 **Web development** (Frontend & Backend)  
+📱 **Flutter for mobile app development**  
+🧠 **Data structures & algorithms for efficient problem-solving**  
+
+---
+
+## 💡 Looking to Collaborate On  
+🔹 **Open-source projects**  
+🔹 **Web and mobile applications**  
+🔹 **Innovative projects using Python, Java, or AI-driven technologies**  
+
+---
+
+## ⛳ Ask Me About  
+💻 **OOP principles**  
+🌐 **Web development**  
+⚙️ **Problem-solving in Python, Java, and C++**  
+
+---
+
+## 📨 How to Reach Me  
+📧 Email: **kmabro786110@gmail.com**  
+🔗 LinkedIn: [kmabro](https://www.linkedin.com/in/kmabro/)  
+
+---
+
+## 🤷🏻‍♂️ Fun Fact  
+I write code that works perfectly… after spending **hours debugging what I broke in the first place!** 😆  
