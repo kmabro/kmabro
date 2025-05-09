@@ -2,42 +2,42 @@
 
 🎓 **Computer Systems Engineering Student | Aspiring Web Developer**  
 
-With a passion for **coding, problem-solving, and building digital experiences**, I love developing projects that combine creativity with functionality. I’m continuously learning and exploring new technologies to stay ahead in the ever-evolving world of software development.  
+Passionate about **coding**, **problem-solving**, and crafting digital experiences that combine creativity with functionality. I'm always learning and exploring new technologies to stay ahead in the fast-paced world of tech.
 
 ---
 
-## 🔭 Current Projects  
-📘 **E-Book Reader** – An E-Book Reader with **Text-to-Speech (TTS) in Python**  
-💡 Experimenting with **Python, AI-driven speech processing**  
+## 🔭 Current Project  
+📘 **Smart Book Reader** – A multilingual e-book reader that **reads books in any language**  
+💡 Built using **Python** and **AI-driven speech processing**
 
 ---
 
-## 🕯 Currently Learning  
-🚀 **Web development** (Frontend)  
-📱 **Python**  
-🧠 **Data structures & algorithms for efficient problem-solving**  
+## 🌱 Currently Learning  
+🚀 **Frontend Web Development**  
+🐍 **Python Programming**  
+🔐 **Cybersecurity Essentials**
 
 ---
 
-## 💡 Looking to Collaborate On  
+## 🤝 Open to Collaborate On  
 🔹 **Open-source projects**  
-🔹 **Web Development**  
-🔹 **Innovative projects using Python, Java, or AI-driven technologies**  
+🔹 **Frontend & Web Development**  
+🔹 **AI-powered tools using Python or Java**
 
 ---
 
-## ⛳ Ask Me About  
-📐 **Mathematics and Physics Concepts – from theory to real-world applications**   
-🌐 **Web development**  
-⚙️ **Problem-solving in Python, Java, and C++**  
+## 💬 Ask Me About  
+📐 **Cybersecurity concepts and tools**  
+🌐 **Modern web development practices**  
+⚙️ **Debugging and building in Python, Java, and C++**
 
 ---
 
-## 📨 How to Reach Me  
-📧 Email: **kmabro786110@gmail.com**  
-🔗 LinkedIn: [kmabro](https://www.linkedin.com/in/kmabro/)  
+## 📫 Let's Connect  
+📧 Email: [kmabro786110@gmail.com](mailto:kmabro786110@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/kmabro](https://www.linkedin.com/in/kmabro/)
 
 ---
 
-## 🤷🏻‍♂️ Fun Fact  
-I write code that works perfectly… after spending **hours debugging what I broke in the first place!** 😆  
+## 😄 Fun Fact  
+I write perfect code... **after hours of debugging what I broke in the first place!** 😆
