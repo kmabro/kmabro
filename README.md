@@ -1,35 +1,30 @@
 ## 👋 Hello World! I'm @kmabro  
 
-🎓 **Computer Systems Engineering Student | Aspiring Web Developer**  
+🎓 **Student | AI Engineering Enthusiast**  
 
-Passionate about **coding**, **problem-solving**, and crafting digital experiences that combine creativity with functionality. I'm always learning and exploring new technologies to stay ahead in the fast-paced world of tech.
-
----
-
-## 🔭 Current Project  
-📘 **Smart Book Reader** – A multilingual e-book reader that **reads books in any language**  
-💡 Built using **Python** and **AI-driven speech processing**
+I’m a student focused on **AI Engineering**, passionate about **learning, experimenting**, and **building startup ideas and real-world solutions**. I enjoy turning ideas into working systems and improving them through hands-on practice.
 
 ---
 
 ## 🌱 Currently Learning  
-🚀 **Frontend Web Development**  
-🐍 **Python Programming**  
-🔐 **Cybersecurity Essentials**
+🤖 **AI Engineering & Applied AI**  
+🐍 **Python for AI & Automation**  
+🧪 **Learning by experimenting and building**
 
 ---
 
 ## 🤝 Open to Collaborate On  
 🔹 **Open-source projects**  
-🔹 **Frontend & Web Development**  
-🔹 **AI-powered tools using Python or Java**
+🔹 **AI-powered applications**  
+🔹 **Hackathons & startup ideas**  
+🔹 **Freelance or project-based work**
 
 ---
 
 ## 💬 Ask Me About  
-📐 **Cybersecurity concepts and tools**  
-🌐 **Modern web development practices**  
-⚙️ **Debugging and building in Python, Java, and C++**
+🤖 **AI concepts & beginner-friendly implementations**  
+🐍 **Python experimentation and projects**  
+🚀 **Turning ideas into working products**
 
 ---
 
@@ -39,5 +34,4 @@ Passionate about **coding**, **problem-solving**, and crafting digital experienc
 
 ---
 
-## 😄 Fun Fact  
-I write perfect code... **after hours of debugging what I broke in the first place!** 😆
+⭐ Always learning. Always building.
